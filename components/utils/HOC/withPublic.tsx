@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 import { useRouter } from 'next/router'
 import React, { ComponentType, useEffect } from 'react'
 import { useCookies } from 'react-cookie'
